@@ -1,0 +1,4 @@
+﻿  game.cpp
+F:\mygames\game1\game\game.cpp(18,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\mygames\game1\game\game.cpp(95,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  game.vcxproj -> F:\mygames\game1\game\x64\Debug\game.exe
